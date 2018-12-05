@@ -1,0 +1,3 @@
+rootProject.name = 'last_fm_circle_ci'
+
+include ':app'
